@@ -1,2 +1,9 @@
 # Printed-OCR-for-Extremely-Low-resource-Indic-Languages
-This is a official implementation of the following paper
+This is an official implementation of the following paper
+
+# Introduction
+
+# Updates
+
+# Getting Started
+## Installation
